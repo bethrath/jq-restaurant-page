@@ -1,0 +1,35 @@
+body {
+	background-size: 100%;
+	font-family: georgia;
+	text-align: center;
+}
+
+li {
+	display: inline-block;
+	font-size: 20pt;
+	margin: 20px;
+	letter-spacing: 2pt;
+}
+
+li:hover {
+	color: #ededed;
+}
+
+h1 {
+	font-size: 40pt;
+	font-style: italic;
+}
+
+.home {
+	padding: 10px;
+	width: 100%;
+	height: 550px;
+	background-image: url("../images/fredricks-champagne.jpg");
+	color: #fff;
+
+}
+
+.menu img {
+	padding: 10px;
+
+}
